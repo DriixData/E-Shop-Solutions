@@ -1,4 +1,4 @@
-# E-Shop Solutions : Analyse des Ventes
+# 🛍 E-Shop Solutions : Analyse des Ventes
 
 ## 📋 Aperçu du Projet
 
