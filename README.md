@@ -7,7 +7,7 @@ Ce projet consiste à analyser un jeu de données de ventes pour **E-Shop Soluti
 ### Livrables Clés
 - **Nettoyage des données et analyse exploratoire (EDA) :** Une étude approfondie du jeu de données pour découvrir des motifs, des valeurs aberrantes et des tendances.
 - **Tableau de bord interactif Power BI :** Un tableau de bord convivial et esthétique permettant aux parties prenantes d'explorer les résultats de manière dynamique.
-
+![image](https://github.com/user-attachments/assets/1eab91c2-4f63-4bff-9620-a679e41a3009)
 ---
 
 ## 🗂️ Détails du Jeu de Données
