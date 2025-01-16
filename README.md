@@ -9,7 +9,7 @@ Ce projet consiste à analyser un jeu de données de ventes pour **E-Shop Soluti
 - **Tableau de bord interactif Power BI :** Un tableau de bord convivial et esthétique permettant aux parties prenantes d'explorer les résultats de manière dynamique.
 
 ![image](https://github.com/user-attachments/assets/1eab91c2-4f63-4bff-9620-a679e41a3009)
----
+
 
 ## 🗂️ Détails du Jeu de Données
 - **Source :** Transactions d'E-Shop Solutions.
@@ -20,7 +20,6 @@ Ce projet consiste à analyser un jeu de données de ventes pour **E-Shop Soluti
   
 **Remarque :** Le jeu de données nécessitait un prétraitement important pour traiter les valeurs manquantes, les valeurs aberrantes et les incohérences.
 
----
 
 ## 🔍 Étapes et Méthodologie
 
@@ -49,7 +48,6 @@ Création d’un **tableau de bord interactif Power BI** comprenant :
   - Les clients à forte valeur.
   - Les performances des stocks.
 
----
 
 ## 🛠️ Outils et Technologies Utilisés
 - **Python :** Pour le prétraitement des données et l’EDA en utilisant des bibliothèques telles que Pandas, NumPy, Matplotlib et Seaborn.
@@ -57,7 +55,6 @@ Création d’un **tableau de bord interactif Power BI** comprenant :
 - **Jupyter Notebook :** Pour documenter le processus de nettoyage et d’analyse.
 - **Git & GitHub :** Contrôle de version et partage du projet.
 
----
 
 ## 💡 Principaux Résultats
 1. **Produits les plus vendus :** Mise en évidence des articles les plus populaires générant des revenus.
@@ -65,7 +62,6 @@ Création d’un **tableau de bord interactif Power BI** comprenant :
 3. **Répartition des clients :** Les clients basés au Royaume-Uni ont contribué à la majorité des revenus, avec une participation significative des clients en gros.
 4. **Anomalies :** Identification des commandes annulées ou partiellement réalisées ayant un impact sur les revenus.
 
----
 
 ## 📊 Aperçu du Tableau de Bord
 Une capture du tableau de bord Power BI inclut :
@@ -75,7 +71,6 @@ Une capture du tableau de bord Power BI inclut :
 
 Pour une vue détaillée, veuillez consulter le [fichier Power BI](link-to-dashboard).
 
----
 
 ## 🚀 Comment Exécuter le Projet
 1. Clonez le dépôt :
@@ -92,7 +87,6 @@ Pour une vue détaillée, veuillez consulter le [fichier Power BI](link-to-dashb
    ```
 4. Ouvrez le fichier Power BI (`E-Shop_Dashboard.pbix`) pour une exploration interactive.
 
----
 
 ## 📁 Structure du Dépôt
 ```
@@ -107,7 +101,6 @@ Pour une vue détaillée, veuillez consulter le [fichier Power BI](link-to-dashb
 └── README.md
 ```
 
----
 
 ## 🙋‍♂️ Contact
 Pour toute question ou opportunité de collaboration, n’hésitez pas à me contacter :
