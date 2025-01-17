@@ -121,21 +121,21 @@ Pour une vue détaillée, veuillez consulter le [fichier Power BI](link-to-dashb
 ## 📁 Structure du Dépôt
 
 ```
-📂 E-Shop-Solutions-Sales-Analysis
-├── 📁 data
-│   └── e_shop_sales.csv
-├── 📁 notebooks
-│   └── sales_analysis.ipynb
+📂 E-Shop-Solutions-main
 ├── 📁 dashboard
 │   └── E-Shop_Dashboard.pbix
-├── requirements.txt
-└── README.md
+├── 📁 data
+│   └── data_clean.csv
+│   └── data.csv
+├── 📁 notebooks
+│   └── sales_analysis.ipynb
+├── README.md
+└── requirements.txt
 ```
 
 ## 🙋‍♂️ Contact
 
 Pour toute question ou opportunité de collaboration, n’hésitez pas à me contacter :
 
-- **Email :** your.email@example.com
-- **LinkedIn :** [Votre profil LinkedIn](https://www.linkedin.com/in/your-profile)
-- **GitHub :** [Votre profil GitHub](https://github.com/your-username)
+- **LinkedIn :** [Votre profil LinkedIn](https://www.linkedin.com/in/c3dr1c/)
+- **GitHub :** [Votre profil GitHub](https://github.com/driixdata)
