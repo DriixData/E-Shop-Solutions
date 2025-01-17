@@ -137,5 +137,4 @@ Pour une vue détaillée, veuillez consulter le [fichier Power BI](link-to-dashb
 
 Pour toute question ou opportunité de collaboration, n’hésitez pas à me contacter :
 
-- **LinkedIn :** [Votre profil LinkedIn](https://www.linkedin.com/in/c3dr1c/)
-- **GitHub :** [Votre profil GitHub](https://github.com/driixdata)
+[Votre mon profil LinkedIn](https://www.linkedin.com/in/c3dr1c/)
